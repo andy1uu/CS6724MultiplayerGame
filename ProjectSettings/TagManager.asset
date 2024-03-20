@@ -3,7 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - blueBoundary
+  - purpleBoundary
+  - purpleGoal
+  - blueGoal
+  - VRUIBackground
+  - VRUIText
+  - VRUIToggle
+  - VRUIOutline
+  - wall
+  - boundary
+  - ball
+  - walkableSurface
+  - VRUIButton
+  - VRUIButtonIcon
+  - VRUIIcon
+  - Button
+  - HeightButtonOn
+  - HeightButtonOff
   layers:
   - Default
   - TransparentFX
