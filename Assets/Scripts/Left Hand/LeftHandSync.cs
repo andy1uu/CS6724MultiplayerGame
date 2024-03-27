@@ -48,7 +48,7 @@ namespace LeftHand
             else
             {
                 leftHandModel.SetActive(false);
-                leftHandCube.SetActive(true);
+                leftHandCube.SetActive(false);
                 Debug.Log("Left Hand is off");
             }
         }
